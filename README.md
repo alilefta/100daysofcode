@@ -1,4 +1,4 @@
-# 100daysofcode
+# 100 Days Of Code
 ## Day 1:
 ### Java
 Java fundamentals which includes operators, methods and passing data:
